@@ -30,24 +30,25 @@
 
 ---
 
+### 💻 Development Setup
+- **OS:** Windows 11 + WSL2 (Ubuntu 24.04)
+- **Shell:** Zsh / Git Bash
+- **Terminal:** Windows Terminal
+- **Build Tools:** `uv`, `pip`, `PyQt6`
+
+---
+
 ### 📊 Language Proficiency
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denay2468&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
----
-
-### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denay2468&theme=tokyonight&hide_border=true" alt="Denay2468 Streak" />
-</p>
 
 ---
 
 ### 📫 Connect with Me
 - **Email:** [denayaung13@gmail.com](mailto:denayaung13@gmail.com)
 - **Location:** Yogyakarta, Indonesia ($UTC+7$)
-- **Profile Views:** ![Visitor Count](https://komarev.com/ghpvc/?username=Denay2468&color=36BCF7&style=flat-square)
 
 <p align="right">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
