@@ -1,9 +1,7 @@
 <div align="center">
 
 # De Nay Aung
-
 **Python Developer · Open Source Contributor**
-
 `Yogyakarta, Indonesia` · `denayaung13@gmail.com`
 
 </div>
@@ -41,12 +39,13 @@ Domains      Desktop apps · Data structures · Open source
 | [Mini_Bank](https://github.com/Denay2468/Mini_Bank) | Mini bank system with file handling | Python |
 | [xml-validator](https://github.com/Denay2468/xml-validator) | XML validator using stack data structure | C |
 | [User-Management-System](https://github.com/Denay2468/User-Management-System) | User management with CRUD operations | C |
+| [student-crud-django](https://github.com/Denay2468/student-crud-django) | Student CRUD web app with Django & Bootstrap | Python · Django |
+| [bank-management-system](https://github.com/Denay2468/bank-management-system) | Bank system using linked list data structure | C |
 | [gf-day-website](https://github.com/Denay2468/gf-day-website) | Personal HTML website | HTML |
 
 ---
 
 ### open source
-
 actively contributing to **[borgbase/vorta](https://github.com/borgbase/vorta)** — a PyQt6 desktop backup client
 ```
 #2471  fix excludes lost in profile export        → merged ✓
@@ -59,7 +58,6 @@ actively contributing to **[borgbase/vorta](https://github.com/borgbase/vorta)**
 ---
 
 ### background
-
 - 🎓 Full international scholarship — IT student, graduating 2029
 - 🤖 AI Trainer @ Labelbox — annotated Python code for ML model quality
 - 📜 Python Diploma · Cisco IT Essentials · Udemy 100 Days of Code
